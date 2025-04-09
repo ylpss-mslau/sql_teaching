@@ -1,47 +1,47 @@
 {
-  "bgc-c": "#f5f3ff",  // Panel background: Very light lavender
-  "bgc-d": "#ede9fe",  // Main background: Pale purple
-  "bgc-e": "#fafaff",  // Code-Editor background: Almost white with a purple tint
-  "bgc-b": "#e6e0fa",  // Bottom background: Light lavender
-  "bgc-a": "#f3f0ff",  // Placeholder: Very pale purple
-  "bgc-z": "#ece7ff",  // Dialog background: Pale lavender
-  "bgc-x": "0 2px 2px 0 rgba(150,150,200,0.14), 0 3px 1px -2px rgba(150,150,200,0.2), 0 1px 5px 0 rgba(150,150,200,0.12)",  // Header shadow: Adjusted for purple tones
-  "bgr-a": "#d8d1ff",  // Table cell hover a: Light purple
-  "bgr-b": "#d8d1ff",  // Table cell hover b: Light purple
-  "bgr-e": "#8e44ad",  // Error border: Medium purple
-  "color-a": "#2a1a4a",  // Main font: Dark purple
-  "color-b": "#3a2a5a",  // Table font: Lighter purple
-  "color-c": "#9b59b6",  // Type: object, boolean: Soft purple
-  "color-d": "#f1c40f",  // Type: number, function: Sunflower yellow
-  "color-e": "#2a1a4a",  // Bottom, tooltip, time: Same as main font
-  "color-f": "#fffacd",  // Dialog: Lemon chiffon yellow
-  "color-g": "#8e44ad",  // Error: Medium purple
-  "color-h": "#f7dc6f",  // Run icon: Light yellow
-  "sb-a": "#d7bff9",  // Scrollbar color: Light purple
-  "sb-b": "#f5f3ff",  // Scrollbar background: Very light lavender
-  "cm-color": "#2a1a4a",  // Code-Editor color: Dark purple
-  "cm-keyword": "#3a2a5a",  // Keyword: Lighter purple
-  "cm-type": "#9b59b6",  // Type: Soft purple
-  "cm-atom": "#9b59b6",  // Atom: Same as type
-  "cm-property": "#8e44ad",  // Property: Medium purple
-  "cm-operator": "#f7dc6f",  // Operator: Light yellow
-  "cm-builtin": "#fffacd",  // Built-in: Lemon chiffon yellow
-  "cm-number": "#f1c40f",  // Number: Sunflower yellow
-  "cm-string": "#f7dc6f",  // String: Light yellow
-  "cm-variable": "#9b59b6",  // Variable: Soft purple
-  "cm-variable-2": "#8e44ad",  // Variable 2: Medium purple
-  "cm-comment": "#b19cd9",  // Comment: Muted purple
-  "cm-selected": "#ede9fe",  // Selected: Pale purple
-  "cm-bracket": "#f7dc6f",  // Bracket: Light yellow
-  "cm-line": "#b19cd9",  // Line: Muted purple
-  "menu-table": "#2a1a4a",  // Menu table: Dark purple
-  "menu-column": "#2a1a4a",  // Menu column: Same as table
-  "menu-index": "#2a1a4a",  // Menu index: Same as table
-  "menu-trigger": "#2a1a4a",  // Menu trigger: Same as table
-  "menu-view": "#2a1a4a",  // Menu view: Same as table
-  "menu-key": "#2a1a4a",  // Menu key: Same as table
-  "menu-fun": "#2a1a4a",  // Menu function: Same as table
-  "menu-ct": "#3a2a5a",  // Menu type name: Lighter purple
-  "hover-el-color": "#9b59b6",  // Hover element color: Soft purple
-  "hover-el-bg": "#ede9fe"  // Hover element background: Pale purple
+  "bgc-c": "#f5f3ff",
+  "bgc-d": "#ede9fe",
+  "bgc-e": "#fafaff",
+  "bgc-b": "#e6e0fa",
+  "bgc-a": "#f3f0ff",
+  "bgc-z": "#ece7ff",
+  "bgc-x": "0 2px 2px 0 rgba(150,150,200,0.14), 0 3px 1px -2px rgba(150,150,200,0.2), 0 1px 5px 0 rgba(150,150,200,0.12)",
+  "bgr-a": "#d8d1ff",
+  "bgr-b": "#d8d1ff",
+  "bgr-e": "#8e44ad",
+  "color-a": "#2a1a4a",
+  "color-b": "#3a2a5a",
+  "color-c": "#9b59b6",
+  "color-d": "#f1c40f",
+  "color-e": "#2a1a4a",
+  "color-f": "#fffacd",
+  "color-g": "#8e44ad",
+  "color-h": "#f7dc6f",
+  "sb-a": "#d7bff9",
+  "sb-b": "#f5f3ff",
+  "cm-color": "#2a1a4a",
+  "cm-keyword": "#3a2a5a",
+  "cm-type": "#9b59b6",
+  "cm-atom": "#9b59b6",
+  "cm-property": "#8e44ad",
+  "cm-operator": "#f7dc6f",
+  "cm-builtin": "#fffacd",
+  "cm-number": "#f1c40f",
+  "cm-string": "#f7dc6f",
+  "cm-variable": "#9b59b6",
+  "cm-variable-2": "#8e44ad",
+  "cm-comment": "#b19cd9",
+  "cm-selected": "#ede9fe",
+  "cm-bracket": "#f7dc6f",
+  "cm-line": "#b19cd9",
+  "menu-table": "#2a1a4a",
+  "menu-column": "#2a1a4a",
+  "menu-index": "#2a1a4a",
+  "menu-trigger": "#2a1a4a",
+  "menu-view": "#2a1a4a",
+  "menu-key": "#2a1a4a",
+  "menu-fun": "#2a1a4a",
+  "menu-ct": "#3a2a5a",
+  "hover-el-color": "#9b59b6",
+  "hover-el-bg": "#ede9fe"
 }
