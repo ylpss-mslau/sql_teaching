@@ -1,0 +1,47 @@
+{
+  "bgc-c": "#fff5e6",  // Panel background: Very light yellow
+  "bgc-d": "#ffedd5",  // Main background: Soft peach
+  "bgc-e": "#fffaf0",  // Code-Editor background: Floral white
+  "bgc-b": "#ffe4b5",  // Bottom background: Light peach
+  "bgc-a": "#fff0db",  // Placeholder: Very pale yellow
+  "bgc-z": "#ffebcc",  // Dialog background: Pale peach
+  "bgc-x": "0 2px 2px 0 rgba(200,150,100,0.14), 0 3px 1px -2px rgba(200,150,100,0.2), 0 1px 5px 0 rgba(200,150,100,0.12)",  // Header shadow: Adjusted for warm tones
+  "bgr-a": "#ffdab9",  // Table cell hover a: Peach puff
+  "bgr-b": "#ffdab9",  // Table cell hover b: Peach puff
+  "bgr-e": "#e67e22",  // Error border: Carrot orange
+  "color-a": "#4a2a1a",  // Main font: Dark brown
+  "color-b": "#5a3a2a",  // Table font: Lighter brown
+  "color-c": "#f39c12",  // Type: object, boolean: Bright but soft orange
+  "color-d": "#d35400",  // Type: number, function: Pumpkin orange
+  "color-e": "#4a2a1a",  // Bottom, tooltip, time: Same as main font
+  "color-f": "#f7d794",  // Dialog: Light yellow
+  "color-g": "#e67e22",  // Error: Carrot orange
+  "color-h": "#f1c40f",  // Run icon: Sunflower yellow
+  "sb-a": "#ffcc99",  // Scrollbar color: Light peach
+  "sb-b": "#fff5e6",  // Scrollbar background: Very light yellow
+  "cm-color": "#4a2a1a",  // Code-Editor color: Dark brown
+  "cm-keyword": "#5a3a2a",  // Keyword: Lighter brown
+  "cm-type": "#f39c12",  // Type: Bright but soft orange
+  "cm-atom": "#f39c12",  // Atom: Same as type
+  "cm-property": "#e67e22",  // Property: Carrot orange
+  "cm-operator": "#f1c40f",  // Operator: Sunflower yellow
+  "cm-builtin": "#f7d794",  // Built-in: Light yellow
+  "cm-number": "#d35400",  // Number: Pumpkin orange
+  "cm-string": "#f1c40f",  // String: Sunflower yellow
+  "cm-variable": "#f39c12",  // Variable: Bright but soft orange
+  "cm-variable-2": "#e67e22",  // Variable 2: Carrot orange
+  "cm-comment": "#d4a017",  // Comment: Muted gold
+  "cm-selected": "#ffedd5",  // Selected: Soft peach
+  "cm-bracket": "#f1c40f",  // Bracket: Sunflower yellow
+  "cm-line": "#d4a017",  // Line: Muted gold
+  "menu-table": "#4a2a1a",  // Menu table: Dark brown
+  "menu-column": "#4a2a1a",  // Menu column: Same as table
+  "menu-index": "#4a2a1a",  // Menu index: Same as table
+  "menu-trigger": "#4a2a1a",  // Menu trigger: Same as table
+  "menu-view": "#4a2a1a",  // Menu view: Same as table
+  "menu-key": "#4a2a1a",  // Menu key: Same as table
+  "menu-fun": "#4a2a1a",  // Menu function: Same as table
+  "menu-ct": "#5a3a2a",  // Menu type name: Lighter brown
+  "hover-el-color": "#f39c12",  // Hover element color: Bright but soft orange
+  "hover-el-bg": "#ffedd5"  // Hover element background: Soft peach
+}
