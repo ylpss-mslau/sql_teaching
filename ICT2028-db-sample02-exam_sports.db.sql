@@ -1,5 +1,5 @@
 --
--- File generated with SQLiteStudio v3.4.17 on ¶g¥| ¤T¤ë 19 16:06:59 2026
+-- File generated with SQLiteStudio v3.4.17 on é€±å›› ä¸‰æœˆ 19 16:06:59 2026
 --
 -- Text encoding used: System
 --
@@ -7,12 +7,12 @@ PRAGMA foreign_keys = off;
 BEGIN TRANSACTION;
 
 -- Table: ECA_Record
-CREATE TABLE ECA_Record (
-    record_id INTEGER,
-    student_name TEXT,
-    class_name TEXT,
-    club_name TEXT,
-    attendance_hours INTEGER
+CREATE TABLE ECA_Record (
+    record_id INTEGER,
+    student_name TEXT,
+    class_name TEXT,
+    club_name TEXT,
+    attendance_hours INTEGER
 );
 INSERT INTO ECA_Record (record_id, student_name, class_name, club_name, attendance_hours) VALUES (1, 'Alice', '4A', 'Robotics Club', 12);
 INSERT INTO ECA_Record (record_id, student_name, class_name, club_name, attendance_hours) VALUES (2, 'Jordan', '4A', 'Drama Club', 25);
@@ -36,12 +36,12 @@ INSERT INTO ECA_Record (record_id, student_name, class_name, club_name, attendan
 INSERT INTO ECA_Record (record_id, student_name, class_name, club_name, attendance_hours) VALUES (20, 'Sarah', '4B', 'Choir', 11);
 
 -- Table: Exam_Score
-CREATE TABLE Exam_Score (
-    student_id INTEGER,
-    student_name TEXT,
-    class_name TEXT,
-    subject TEXT,
-    score INTEGER
+CREATE TABLE Exam_Score (
+    student_id INTEGER,
+    student_name TEXT,
+    class_name TEXT,
+    subject TEXT,
+    score INTEGER
 );
 INSERT INTO Exam_Score (student_id, student_name, class_name, subject, score) VALUES (4101, 'Alice', '4A', 'ICT', 85);
 INSERT INTO Exam_Score (student_id, student_name, class_name, subject, score) VALUES (4102, 'Ivan', '4A', 'ICT', 72);
@@ -54,12 +54,12 @@ INSERT INTO Exam_Score (student_id, student_name, class_name, subject, score) VA
 INSERT INTO Exam_Score (student_id, student_name, class_name, subject, score) VALUES (4301, 'Emily', '4C', 'ICT', 60);
 
 -- Table: Photo_Order
-CREATE TABLE Photo_Order (
-    order_id INTEGER,
-    class_name TEXT,
-    photo_type TEXT,
-    quantity INTEGER,
-    unit_price INTEGER
+CREATE TABLE Photo_Order (
+    order_id INTEGER,
+    class_name TEXT,
+    photo_type TEXT,
+    quantity INTEGER,
+    unit_price INTEGER
 );
 INSERT INTO Photo_Order (order_id, class_name, photo_type, quantity, unit_price) VALUES (1, '4A', 'Standard', 30, 20);
 INSERT INTO Photo_Order (order_id, class_name, photo_type, quantity, unit_price) VALUES (2, '4A', 'Fun Pose', 15, 25);
@@ -68,13 +68,13 @@ INSERT INTO Photo_Order (order_id, class_name, photo_type, quantity, unit_price)
 INSERT INTO Photo_Order (order_id, class_name, photo_type, quantity, unit_price) VALUES (5, '4C', 'Fun Pose', 28, 25);
 
 -- Table: Sports_Day_Result
-CREATE TABLE Sports_Day_Result (
-    result_id INTEGER,
-    student_name TEXT,
-    class_name TEXT,
-    house_name TEXT,
-    event_name TEXT,
-    points INTEGER
+CREATE TABLE Sports_Day_Result (
+    result_id INTEGER,
+    student_name TEXT,
+    class_name TEXT,
+    house_name TEXT,
+    event_name TEXT,
+    points INTEGER
 );
 INSERT INTO Sports_Day_Result (result_id, student_name, class_name, house_name, event_name, points) VALUES (101, 'Lily', '4A', 'Red', '100m Sprint', 10);
 INSERT INTO Sports_Day_Result (result_id, student_name, class_name, house_name, event_name, points) VALUES (102, 'Brenda', '4A', 'Blue', 'Long Jump', 8);
